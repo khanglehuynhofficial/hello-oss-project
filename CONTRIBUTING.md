@@ -1,6 +1,3 @@
-cd ~/hello-oss-doc
-
-cat << 'EOF' > CONTRIBUTING.md
 # Hướng dẫn đóng góp (Contributing Guide)
 
 Cảm ơn bạn đã quan tâm và muốn đóng góp cho dự án **Hello-OSS-PROJECT**! Để đảm bảo dự án hoạt động nhất quán, vui lòng đọc và làm theo các hướng dẫn bên dưới.

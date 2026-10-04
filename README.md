@@ -1,4 +1,4 @@
-# hello-oss-project
+# Hello-oss-project
 Một dự án mẫu viết bằng ngôn ngữ C nhằm mục đích làm quen với quy trình mã nguồn mở (OSS).
 
 ## Giới thiệu ngắn gọn về dự án
